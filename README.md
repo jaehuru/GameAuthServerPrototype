@@ -1,12 +1,5 @@
-# GameAuthServerPrototype
-
-3D RPG 게임용 프로토타입 백엔드 서버 프로젝트입니다.  
-사용자 계정 생성, 로그인, JWT 인증, 플레이어 데이터 저장 기능을 제공합니다.
-
----
-
 ## 프로젝트 개요
-
+> *3D RPG 게임용 프로토타입 백엔드 서버 프로젝트*  
 - 사용자 계정 생성 (회원가입)
 - 사용자 로그인 및 인증
 - JWT(JSON Web Token)를 사용한 세션 관리 및 API 인증
@@ -27,8 +20,6 @@
   - `cors` (Cross-Origin Resource Sharing)
 
 ---
-
-## 설치 및 실행
 
 ## 설치 및 실행
 
